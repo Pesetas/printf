@@ -1,0 +1,6 @@
+*.swp
+*.out*
+.vscode
+*.o
+*.a
+main.c
